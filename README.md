@@ -1,4 +1,4 @@
-# .NET AI Demo with Semantic Kernel
+# .NET AI with Semantic Kernel
 
 This demo was code was showing in my video [Build your first AI Chat Bot with OPenAI and .NET in Minute](https://www.youtube.com/watch?v=NNPI4QQ8LhE). This demo was created by the wonderful Stephen Toub and was used with his permission to remix it into videos and sample code for user group presentations.
 
